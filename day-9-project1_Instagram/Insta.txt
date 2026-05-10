@@ -1,0 +1,14 @@
+==> AUTHENTICATION
+   ==> REGISTER (1. save user's data 2. give token to the user)
+   ==> LOGIN
+   ==> LOGOUT
+
+==> POST
+   ==> CREATE
+   ==> CAN SEE THE FEED
+   ==> LIKE POSTS
+   ==> SAVE POSTS
+
+==> USERS
+   ==> FOLLOWERS
+   ==> FOLLOWING
